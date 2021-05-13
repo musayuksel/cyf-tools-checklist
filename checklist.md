@@ -1,10 +1,11 @@
 ## Pre-course and fundamentals
 - An account on Sololearn (to complete HTML, CSS and JS courses)
+- An account on Freecodecamp (to complete HTML, CSS and JS courses)
 - An account on Codepen (to complete the tribute and landing page exercises)
 - Download Zoom
 - Install Chrome (it's preferred you use this as a browser, but it's not mandatory)
-- An account with Code.org
-- An account with Coursera
+- An account with Code.org (to complete Fundamentals courses)
+- An account with Coursera (to complete Fundamentals courses)
 - An account on Slack (and access to the CodeYourFuture workspace)
 - Access to Google Classroom space for your cohort
 
